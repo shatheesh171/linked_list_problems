@@ -3,7 +3,7 @@
 
 #Time and space both are O(n) here
 
-from LinkedList import LinkedList,Node
+from LinkedList import LinkedList
 
 def sumList(ll1,ll2):
     n1=ll1.head
