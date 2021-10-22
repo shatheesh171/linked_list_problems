@@ -1,3 +1,3 @@
-a=set([5])
-a.add(3)
-print(a)
+a=15
+
+print(a%10)
